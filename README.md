@@ -3,56 +3,96 @@
   <img src="Naruto.gif" alt="Naruto Animation" width="100%" />
 </p>
 
-# 💫 About Me:
-Hi, I'm Ahmad Syahreza — a tech enthusiast and Informatics graduate passionate about building real-world digital solutions.  
-I enjoy working with fullstack web development, data analysis, and exploring machine learning & IoT.  
-Currently improving my skills in **Laravel**, **React**, and **Python**, while working on personal and collaborative projects.
+<h1 align="center">Hi, I'm Ahmad Syahreza 👋</h1>
 
----
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://discord.gg/Melby#5264"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://facebook.com/zamysyah"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://instagram.com/zamysyah"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/ahmad-syahreza-9273a8270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.tiktok.com/@melbyuu?_t=ZS-8wPhtzt0TVC&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok"/></a>
-  <a href="https://youtube.com/@Xmelby"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+<p align="center">
+  <b>Tech enthusiast | Fullstack Developer | ML & IoT Explorer</b><br/>
+  <i>Turning ideas into scalable digital products.</i>
 </p>
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+## 🚀 Quick Navigation
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Trophies & Contributions](#-trophies--contributions)
+- [Quote & Activity](#-quote--activity)
+- [Social Links](#-social-links)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zamysyah&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zamysyah&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me:
+I'm a tech enthusiast and Informatics graduate passionate about solving real-world problems through digital solutions.  
+Currently sharpening my skills in **Laravel**, **React**, and **Python** while collaborating on open-source and freelance projects.
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=zamysyah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ---
 
-### ✍️ Random Dev Quote:
+## 🎯 Featured Projects:
+
+### 📱 Melby Chatbot (AI + Streamlit)
+<img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/melby-preview.gif" width="100%" />
+> **Tech Stack:** Python, Streamlit, Ngrok  
+> 🌐 [Live Demo](https://melby.streamlit.app) | 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
+
+---
+
+### 🔐 Horus Login System
+<img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/horus-login.png" width="100%" />
+> **Tech Stack:** Flask, Vue.js, JWT  
+> 🧪 Secure and simple login system  
+> 📁 [Repo](https://github.com/zamysyah/horus-login)
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zamysyah&theme=vision-friendly-dark&hide_border=false)
+
+---
+
+## 🏆 Trophies & Contributions:
+![](https://github-profile-trophy.vercel.app/?username=zamysyah&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=zamysyah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Quote & Activity
+
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### GitHub Contribution Activity
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zamysyah&bg_color=000000&color=00ffff&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=zamysyah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📺 YouTube Highlight
+
+> 🎥 My latest dev project on YouTube:
+
+[![Latest Video](https://img.youtube.com/vi/6tA_jhJSFWY/0.jpg)](https://www.youtube.com/watch?v=6tA_jhJSFWY)
+
+---
+
+## 🌐 Social Links:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Melby#5264)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zamysyah)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zamysyah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syahreza-9273a8270/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@melbyuu?_t=ZS-8wPhtzt0TVC&_r=1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Xmelby)
 
 ---
 
@@ -60,6 +100,4 @@ Currently improving my skills in **Laravel**, **React**, and **Python**, while w
   <img src="https://visitcount.itsvg.in/api?id=zamysyah&icon=0&color=0" alt="Profile Visit Counter"/>
 </p>
 
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly enhanced with ❤️ using GPRM + custom mods -->
