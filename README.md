@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Ahmad Syahreza 👋</h1>
 
 <p align="center">
-  <b>Tech enthusiast | Fullstack Developer | ML & IoT Explorer</b><br/>
+  <b>artificial intelligence enthusiast | Fullstack Developer | ML & IoT Explorer</b><br/>
   <i>Turning ideas into scalable digital products.</i>
 </p>
 
