@@ -1,7 +1,7 @@
 
 <!-- Naruto GIF Header -->
 <p align="center">
-  <img src="Naruto.gif" alt="Naruto Animation" width="100%" />
+  <img src="Wony.gif" alt="Naruto Animation" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ahmad Syahreza 👋</h1>
