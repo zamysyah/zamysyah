@@ -140,6 +140,3 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=zamysyah&icon=0&color=0" alt="Profile Visit Counter"/>
-</p>
