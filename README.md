@@ -82,7 +82,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 
 > 🎥 My latest dev project on YouTube:
 
-[![Latest Video](https://img.youtube.com/vi/6tA_jhJSFWY/0.jpg)](https://www.youtube.com/watch?v=6tA_jhJSFWY)
+[![Latest Video](https://img.youtube.com/vi/6tA_jhJSFWY/0.jpg)](https://youtu.be/FXnQVixJm00?si=4rhLVXXxHwVxy96a)
 
 ---
 
