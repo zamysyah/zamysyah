@@ -1,3 +1,4 @@
+
 <!-- Naruto GIF Header -->
 <p align="center">
   <img src="Naruto.gif" alt="Naruto Animation" width="100%" />
@@ -41,10 +42,46 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 
 ## 🎯 Featured Projects:
 
-### 📱 Melby Chatbot (AI + Streamlit)
-<img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/melby-preview.gif" width="100%" />
-> **Tech Stack:** Python, Streamlit, Ngrok  
-> 🌐 [Live Demo](https://melby.streamlit.app) | 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
+### 🛒 M2M Sticker Store (ReactJS Static Website)
+> **Tech Stack:** ReactJS  
+> ⚡ Static website for an online sticker shop
+
+---
+
+### 🌱 IoT Monitoring System (Suhu & Kelembaban Kentang)
+<img src="iotMonitoring.jpg" alt="IoT Monitoring Device" width="100%" />
+> **Tech Stack:** C++, Arduino, IoT Sensors  
+> 📡 Real-time monitoring for agriculture
+
+---
+
+### 🤖 LearnChatbotNLP
+> **Tech Stack:** Python, NLP  
+> 🧠 Basic chatbot built with Natural Language Processing and rule-based conversation flow
+
+---
+
+### 💬 Sentiment Analysis
+> **Tech Stack:** Python, Logistic Regression, LSTM  
+> 🧪 Analyze sentiment using traditional ML and deep learning for comparison
+
+---
+
+### 🛍️ Django Ecommerce
+> **Tech Stack:** Django, JavaScript  
+> 🛒 Full-featured e-commerce backend using Django framework
+
+---
+
+### 🩺 Health Dataset Processing & Classification
+> **Tech Stack:** Python, Pandas, Sklearn  
+> 🧹 Data cleaning, transformation, and classification with high-accuracy models from messy health datasets
+
+---
+
+### 💼 Financial App with Laravel
+> **Tech Stack:** Laravel, PHP  
+> 🧾 Financial tracking and recording system for company use
 
 ---
 
@@ -53,6 +90,13 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 > **Tech Stack:** Flask, Vue.js, JWT  
 > 🧪 Secure and simple login system  
 > 📁 [Repo](https://github.com/zamysyah/horus-login)
+
+---
+
+### 📱 Melby Chatbot (AI + Streamlit)
+<img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/melby-preview.gif" width="100%" />
+> **Tech Stack:** Python, Streamlit, Ngrok  
+> 🌐 [Live Demo](https://melby.streamlit.app) | 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
 
 ---
 
@@ -74,7 +118,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### GitHub Contribution Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zamysyah&bg_color=000000&color=00ffff&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamysyah&bg_color=000000&color=00ffff&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -99,5 +143,3 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=zamysyah&icon=0&color=0" alt="Profile Visit Counter"/>
 </p>
-
-<!-- Proudly enhanced with ❤️ using GPRM + custom mods -->
