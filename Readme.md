@@ -57,6 +57,8 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 > Monitoring suhu dan kelembaban optimal untuk budidaya tanaman kentang (15–22°C) secara real-time menggunakan IoT dan dashboard visualisasi. 
 > 📡 Real-time monitoring for agriculture
 <img src="IoT.webp" alt="IoT Monitoring Device" width="100%" />
+🎥 **Demo Video**:
+(https://drive.google.com/file/d/1hpPey9D9-b5SMGKkWGjhhE4zkcf4NWHH/view?usp=drive_link)
 
 
 ---
