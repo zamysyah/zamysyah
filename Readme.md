@@ -86,7 +86,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 ---
 
 ### 🔐 Horus Login System
-<img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/horus-login.png" width="100%" />
+<img src="SimpleCrudWarehouse.png" width="100%" />
 > **Tech Stack:** Flask, Vue.js, JWT  
 > 🧪 Secure and simple login system  
 > 📁 [Repo](https://github.com/zamysyah/horus-login)
