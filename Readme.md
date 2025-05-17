@@ -159,8 +159,6 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 
 ## 🌐 Social Links:
 <p align="center">
-  <a href="https://discord.gg/Melby#5264"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/zamysyah"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/zamysyah"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmad-syahreza-9273a8270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@melbyuu?_t=ZS-8wPhtzt0TVC&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
