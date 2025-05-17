@@ -49,7 +49,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 ---
 
 ### 🌱 IoT Monitoring System (Suhu & Kelembaban Kentang)
-<img src="IoTMonitoring.jpg" alt="IoT Monitoring Device" width="100%" />
+<img src="IoTMonitoring.JPG" alt="IoT Monitoring Device" width="100%" />
 > **Tech Stack:** C++, Arduino, IoT Sensors  
 > 📡 Real-time monitoring for agriculture
 
