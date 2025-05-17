@@ -1,6 +1,7 @@
 <!--  GIF Header -->
 <p align="center">
   <img src="Wony.gif" alt="Wonyoung" width="100%" />
+  <img src="Naruto.gif" alt="Wonyoung" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ahmad Syahreza 👋</h1>
@@ -64,30 +65,36 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 ### 🤖 LearnChatbotNLP
 > **Tech Stack:** Python, NLP  
 > 🧠 Rule-based NLP chatbot for basic conversations
+> 📁 [Repo](https://github.com/zamysyah/LearnChatbotNLP)
 
 ---
 
 ### 💬 Sentiment Analysis
 > **Tech Stack:** Python, Logistic Regression, LSTM  
 > 📊 Comparative analysis using traditional ML and Deep Learning
+> 📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)
 
 ---
 
 ### 🛍️ Django Ecommerce
 > **Tech Stack:** Django, JavaScript  
 > 🛒 Full-featured e-commerce backend platform
+> 📁 [Repo](https://github.com/zamysyah/DjangoEcommerce)
 
 ---
 
 ### 🩺 Health Dataset Processing & Classification
 > **Tech Stack:** Python, Pandas, Sklearn  
 > 🧹 From messy datasets to clean, accurate predictions
+> optimalisasi model KNN, Naive Bayes, Support Vector Machine, Random Forest, Logistic Regression, Desicion Tree
+> 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
 
 ---
 
 ### 💼 Financial App with Laravel
 > **Tech Stack:** Laravel, PHP  
 > 💸 Financial tracking and invoice recording system
+> 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
 
 ---
 
