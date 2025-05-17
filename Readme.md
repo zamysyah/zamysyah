@@ -85,7 +85,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 
 ---
 
-### 🔐 Horus Login System
+### Warehouse Using Vue.JS
 <img src="SimpleCrudWarehouse.png" width="100%" />
 > **Tech Stack:** Flask, Vue.js, JWT  
 > 🧪 Secure and simple login system  
