@@ -47,7 +47,7 @@ Currently sharpening my skills in **Laravel**, **React**, and **Python** while c
 > ⚡ Static website for an online sticker shop
 
 🎥 **Demo Video**:
-<video src="m2msticker.mp4" controls width="100%"></video>
+<video src="m2msticker.MP4" controls width="100%"></video>
 
 
 ---
