@@ -1,7 +1,7 @@
 <!--  GIF Header -->
 <p align="center">
   <img src="Wony.gif" alt="Wonyoung" width="100%" />
-  <img src="Naruto.gif" alt="Wonyoung" width="100%" />
+  <img src="Wony2.gif" alt="Wonyoung" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ahmad Syahreza 👋</h1>
