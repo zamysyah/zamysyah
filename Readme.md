@@ -23,7 +23,7 @@
 - [GitHub Stats](#-github-stats)
 - [Trophies & Contributions](#-trophies--contributions)
 - [Quote & Activity](#-quote--activity)
-- [🎮 Bonus Game](#-bonus-game)
+- [Snake Game](#-github-snake)
 - [Social Links](#-social-links)
 
 ---
@@ -140,7 +140,7 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/zamysyah/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
