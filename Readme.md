@@ -23,7 +23,7 @@
 - [GitHub Stats](#-github-stats)
 - [Trophies & Contributions](#-trophies--contributions)
 - [Quote & Activity](#-quote--activity)
-- [Snake Game](#-github-snake)
+- [Snake Game](#-dynamic-badges)
 - [Social Links](#-social-links)
 
 ---
