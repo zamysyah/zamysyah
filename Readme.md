@@ -166,7 +166,6 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
   <a href="https://www.linkedin.com/in/ahmad-syahreza-9273a8270/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@melbyuu?_t=ZS-8wPhtzt0TVC&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
   <a href="https://youtube.com/@Xmelby"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
-    <img src="Wony2.gif" alt="Wonyoung" width="100%" />
 </p>
 
 ---
