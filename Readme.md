@@ -134,11 +134,12 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 
 ---
 
-## 🎮 Bonus Game
-> Just for fun — try playing this directly!
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="[github-contribution-grid-snake-blue](https://github.com/zamysyah/zamysyah/blob/main/github-contribution-grid-snake-blue.svg)" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/zamysyah/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ---
 
