@@ -97,10 +97,11 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 ---
 
 ### 🏬 Warehouse Using Vue.JS
-<img src="SimpleCrudWarehouse.png" width="100%" />
 > **Tech Stack:** Flask, Vue.js, JWT  
 > 🛡️ Secure login & product management  
 > 📁 [Repo](https://github.com/zamysyah/horus-login)
+<img src="SimpleCrudWarehouse.png" width="100%" />
+
 
 ---
 
@@ -112,10 +113,10 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 ---
 
 ### 🏪 Website Cafe Sejuk
-<img src="Sejuk.png" width="100%" />
 > **Tech Stack:** HTML, SCSS, JavaScript  
 > 🛡️ SEJUK’s website is a modern and informative platform that showcases a variety of tea and milk beverages, offering online ordering and business partnership opportunities.  
 > 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
+<img src="Sejuk.png" width="100%" />
 
 ---
 
