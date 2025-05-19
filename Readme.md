@@ -29,7 +29,7 @@
 
 ## 💫 About Me:
 Tech enthusiast and Informatics graduate passionate about solving real-world problems through digital solutions.  
-Currently sharpening skills in **Laravel**, **React**, and **Python**, collaborating on open-source and freelance projects.
+Currently sharpening skills in **React**, and **Python**, collaborating on open-source and freelance projects.
 
 ---
 
