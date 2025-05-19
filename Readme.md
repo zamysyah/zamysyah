@@ -111,6 +111,14 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 
 ---
 
+### 🏪 Website Cafe Sejuk
+<img src="Sejuk.png" width="100%" />
+> **Tech Stack:** HTML, SCSS, JavaScript  
+> 🛡️ SEJUK’s website is a modern and informative platform that showcases a variety of tea and milk beverages, offering online ordering and business partnership opportunities.  
+> 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
+
+---
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false" height="150"/>
@@ -136,15 +144,6 @@ Currently sharpening skills in **Laravel**, **React**, and **Python**, collabora
 
 ### 📈 GitHub Contribution Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamysyah&bg_color=000000&color=00ffff&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 GitHub Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zamysyah/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
 
 ---
 
