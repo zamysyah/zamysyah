@@ -42,6 +42,15 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ## 🎯 Featured Projects:
 
+### 💬 Comparison of Weather Prediction Model Performance: Random Forest, Support Vector Regression, and XGBoost
+> **Tech Stack:** Python, XGBoost, Random Forest, Support Vector Regressor  
+> 📊 This project aims to evaluate and compare the performance of three machine learning models—Random Forest, Support Vector Regression, and XGBoost—in predicting weather conditions based on historical data.
+> 📁 [Repo](https://github.com/zamysyah/WeatherPrediction)
+<img src="WeatherPrediction.png" alt="M2M Website" width="100%" />
+
+
+---
+
 ### 🛒 M2M Sticker Store (ReactJS Static Website)
 > **Tech Stack:** ReactJS  
 > ⚡ Static website for an online sticker shop  
