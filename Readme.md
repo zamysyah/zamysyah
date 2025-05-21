@@ -168,7 +168,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ### 🏅 Achievements
 
 - 🎓 Graduated **cum laude** from Universitas Dian Nuswantoro with a GPA of 3.58  
-- 🧠 Completed thesis and internship simultaneously while supporting family through health challenges  
+- 🧠 Independently developed an IoT-based environmental monitoring system and successfully implemented it to support real-time data tracking.  
 - 💼 Completed **Kampus Merdeka x Gamelab** program in software engineering  
 - 📑 Passed **TOEFL Post-Test (CFLT)** on the first attempt  
 - 🏅 Earned **National Certification: Junior Data Scientist (Ilmuwan Data Madya)** from **BNSP**
