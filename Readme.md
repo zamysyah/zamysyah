@@ -63,7 +63,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ### 🌱 IoT Monitoring System (Suhu & Kelembaban Kentang)
 > **Tech Stack:** C++, Arduino, IoT Sensors  
 > 📡 Real-time monitoring with optimal control  
-<img src="IoT.webp" alt="IoT Monitoring Device" width="100%" />
+<img src="StorageMonitoring.png" alt="IoT Monitoring Device" width="100%" />
 🎥 **Demo Video**:  
 ▶️ [Watch on Google Drive](https://drive.google.com/file/d/1hpPey9D9-b5SMGKkWGjhhE4zkcf4NWHH/view?usp=drive_link)
 
