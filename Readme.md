@@ -127,20 +127,6 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 > 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
 <img src="Sejuk.png" width="100%" />
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zamysyah&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zamysyah&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zamysyah&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zamysyah&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
@@ -148,17 +134,22 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false" height="150"/>
+</p>  
+<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=zamysyah&theme=vision-friendly-dark&hide_border=false" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamysyah&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 </p>
 
 ---
 
 ## 🏆 Trophies & Contributions:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zamysyah&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zamysyah&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=zamysyah&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=zamysyah&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
@@ -166,7 +157,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ## ✍️ Quote & Activity
 
 ### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 📈 GitHub Contribution Activity
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamysyah&bg_color=000000&color=00ffff&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
