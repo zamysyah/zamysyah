@@ -114,12 +114,18 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-### 🤖 Melby Chatbot (AI + Streamlit)
+### 🤖 Chatbot (AI + Streamlit)
 <img src="https://raw.githubusercontent.com/zamysyah/zamysyah/main/assets/melby-preview.gif" width="100%" />
 > **Tech Stack:** Python, Streamlit, Ngrok  
 > 🌐 [Live Demo](https://melby.streamlit.app) | 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
 
 ---
+### 🤖 Fake Mews Detector
+> **Tech Stack:** Python, Streamlit, Ngrok  
+> 📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
+
+
+--- 
 
 ### 🏪 Website Cafe Sejuk
 > **Tech Stack:** HTML, SCSS, JavaScript  
