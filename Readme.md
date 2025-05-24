@@ -99,7 +99,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ---
 
 ### 💼 Financial App with Laravel
-> **Tech Stack:** Laravel, PHP  
+> **Tech Stack:** Laravel, PHP, CSS  
 > 💸 Financial tracking and invoice recording system
 > 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
 
