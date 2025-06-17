@@ -69,17 +69,12 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-### 🤖 LearnChatbotNLP
-> **Tech Stack:** Python, NLP  
-> 🧠 Rule-based NLP chatbot for basic conversations
-> 📁 [Repo](https://github.com/zamysyah/LearnChatbotNLP)
-
----
 
 ### 💬 Sentiment Analysis
 > **Tech Stack:** Python, Logistic Regression, LSTM  
 > 📊 Comparative analysis using traditional ML and Deep Learning
 > 📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)
+> <img src="Review.png" alt="M2M Website" width="100%" />
 
 ---
 
@@ -115,12 +110,17 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ---
 
 ### 🤖 Chatbot (AI + Streamlit)
-> **Tech Stack:** Python, Streamlit, Ngrok  
+> **Tech Stack:** Python, Streamlit, Ngrok
+> 💬 A lightweight smart assistant built using rule-based logic and conversational memory.
+> 🧠 Designed to handle basic inquiries and provide interactive responses through a clean Streamlit web interface.
 > 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
+> <img src="Chatbot.png" alt="Chatbot" width="100%" />
 
 ---
-### 🤖 Fake Mews Detector
-> **Tech Stack:** Python, Streamlit, Ngrok  
+### 📰 Fake News Detection App
+> **Tech Stack:** Python, Streamlit, Ngrok
+> 🔍 A real-time fake news detection tool powered by machine learning.
+> 🧪 Trained on real vs fake news datasets and utilizes NLP techniques for classification.
 > 📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
 
 
