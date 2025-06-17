@@ -130,7 +130,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Python, Streamlit, Ngrok  
 💬 Interactive rule-based chatbot with memory  
 📁 [Repo](https://github.com/zamysyah/melby-chatbot)  
-<img src="Chatbot.png" width="100%" />
+<img src="Chatbot.png" width="60%" />
 
 ---
 
