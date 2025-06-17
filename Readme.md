@@ -105,9 +105,8 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ### 🤖 Chatbot (AI + Streamlit)
 > **Tech Stack:** Python, Streamlit, Ngrok
 > 💬 A lightweight smart assistant built using rule-based logic and conversational memory.
-> 🧠 Designed to handle basic inquiries and provide interactive responses through a clean Streamlit web interface.
 > 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
-> <img src="Chatbot.png" alt="Chatbot" width="100%" />
+<img src="Chatbot.png" alt="Chatbot" width="100%" />
 
 ---
 
