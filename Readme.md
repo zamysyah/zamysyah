@@ -122,6 +122,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Python, Pandas, Sklearn  
 🧹 Preprocessing and modeling with KNN, Naive Bayes, SVM, RF, LR, Decision Tree  
 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
+<img src="HealthML.png" width="100%" />
 
 ---
 
