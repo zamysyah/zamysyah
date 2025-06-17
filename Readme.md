@@ -1,4 +1,4 @@
-![ChatGPT Image Jun 18, 2025, 04_12_15 AM](https://github.com/user-attachments/assets/6bdffe4d-9ac0-4bc6-ae2e-2513de848ec4)<!--  GIF Header -->
+<!--  GIF Header -->
 <p align="center">
   <img src="Wony.gif" alt="Wonyoung" width="100%" />
 </p>
