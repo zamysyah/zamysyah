@@ -53,7 +53,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-## 🌐 Website Projects
+### 🌐 Website Projects
 
 ---
 
@@ -98,7 +98,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-## 📊 Data Science & Machine Learning Projects
+### 📊 Data Science & Machine Learning Projects
 
 ---
 
