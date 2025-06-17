@@ -84,7 +84,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Laravel, PHP, CSS  
 💸 Financial tracking and invoice management system  
 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)  
-<img src="Laravel.png" width="100%" />
+<img src="Laravel.png" width="80%" />
 
 ---
 
@@ -92,7 +92,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Flask, Vue.js, JWT  
 🧾 CRUD app with secure login and product management  
 📁 [Repo](https://github.com/zamysyah/horus-login)  
-<img src="SimpleCrudWarehouse.png" width="100%" />
+<img src="SimpleCrudWarehouse.png" width="80%" />
 
 ---
 
@@ -104,7 +104,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Python, XGBoost, Random Forest, SVR  
 📊 Compare model performance for weather prediction  
 📁 [Repo](https://github.com/zamysyah/WeatherPrediction)  
-<img src="WeatherPrediction.png" width="100%" />
+<img src="WeatherPrediction.png" width="80%" />
 
 ---
 
@@ -122,7 +122,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 **Tech Stack:** Python, Pandas, Sklearn  
 🧹 Preprocessing and modeling with KNN, Naive Bayes, SVM, RF, LR, Decision Tree  
 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
-<img src="HealthML.png" width="100%" />
+<img src="HealthML.png" width="80%" />
 
 ---
 
