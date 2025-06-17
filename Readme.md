@@ -113,8 +113,7 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ### 📰 Fake News Detection App
 > **Tech Stack:** Python, Streamlit, Ngrok
-> -🔍 A real-time fake news detection tool powered by machine learning.
-> -🧪 Trained on real vs fake news datasets and utilizes NLP techniques for classification.
+> 🔍 A real-time fake news detection tool powered by machine learning.
 > 📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
 
 ---
