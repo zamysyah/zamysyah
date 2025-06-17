@@ -1,4 +1,4 @@
-<!--  GIF Header -->
+![ChatGPT Image Jun 18, 2025, 04_12_15 AM](https://github.com/user-attachments/assets/6bdffe4d-9ac0-4bc6-ae2e-2513de848ec4)<!--  GIF Header -->
 <p align="center">
   <img src="Wony.gif" alt="Wonyoung" width="100%" />
 </p>
@@ -40,14 +40,20 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-## 🎯 Featured Projects:
+## 🌐 IoT Project
 
-### 💬 Comparison of Weather Prediction Model Performance: Random Forest, Support Vector Regression, and XGBoost
-> **Tech Stack:** Python, XGBoost, Random Forest, Support Vector Regressor  
-> 📊 This project aims to evaluate and compare the performance of three machine learning models—Random Forest, Support Vector Regression, and XGBoost—in predicting weather conditions based on historical data.
-> 📁 [Repo](https://github.com/zamysyah/WeatherPrediction)
-<img src="WeatherPrediction.png" alt="WeatrherPrediction" width="100%" />
+---
 
+### 🌱 IoT Monitoring System (Weather and Humidity Potato Farm)
+> **Tech Stack:** C++, Arduino, IoT Sensors  
+> 📡 Real-time monitoring with optimal control  
+<img src="StorageMonitoring.png" alt="IoT Monitoring Device" width="100%" />
+🎥 **Demo Video**:  
+▶️ [Watch on Google Drive](https://drive.google.com/file/d/1hpPey9D9-b5SMGKkWGjhhE4zkcf4NWHH/view?usp=drive_link)
+
+---
+
+## 🌐 Website Projects
 
 ---
 
@@ -60,21 +66,11 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-### 🌱 IoT Monitoring System (Suhu & Kelembaban Kentang)
-> **Tech Stack:** C++, Arduino, IoT Sensors  
-> 📡 Real-time monitoring with optimal control  
-<img src="StorageMonitoring.png" alt="IoT Monitoring Device" width="100%" />
-🎥 **Demo Video**:  
-▶️ [Watch on Google Drive](https://drive.google.com/file/d/1hpPey9D9-b5SMGKkWGjhhE4zkcf4NWHH/view?usp=drive_link)
-
----
-
-
-### 💬 Sentiment Analysis
-> **Tech Stack:** Python, Logistic Regression, LSTM  
-> 📊 Comparative analysis using traditional ML and Deep Learning
-> 📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)
-> <img src="Review.png" alt="M2M Website" width="100%" />
+### 🏪 Website Cafe Sejuk
+> **Tech Stack:** HTML, SCSS, JavaScript  
+> 🛡️ SEJUK’s website is a modern and informative platform that showcases a variety of tea and milk beverages, offering online ordering and business partnership opportunities.  
+> 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
+<img src="Sejuk.png" width="100%" />
 
 ---
 
@@ -85,18 +81,11 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-### 🩺 Health Dataset Processing & Classification
-> **Tech Stack:** Python, Pandas, Sklearn  
-> 🧹 From messy datasets to clean, accurate predictions
-> optimalisasi model KNN, Naive Bayes, Support Vector Machine, Random Forest, Logistic Regression, Desicion Tree
-> 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
-
----
-
 ### 💼 Financial App with Laravel
 > **Tech Stack:** Laravel, PHP, CSS  
 > 💸 Financial tracking and invoice recording system
 > 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
+> <img src="Laravel.png" width="100%" />
 
 ---
 
@@ -109,6 +98,10 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
+## 📊 Data Science & Machine Learning Projects
+
+---
+
 ### 🤖 Chatbot (AI + Streamlit)
 > **Tech Stack:** Python, Streamlit, Ngrok
 > 💬 A lightweight smart assistant built using rule-based logic and conversational memory.
@@ -117,29 +110,51 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 > <img src="Chatbot.png" alt="Chatbot" width="100%" />
 
 ---
+
 ### 📰 Fake News Detection App
 > **Tech Stack:** Python, Streamlit, Ngrok
 > 🔍 A real-time fake news detection tool powered by machine learning.
 > 🧪 Trained on real vs fake news datasets and utilizes NLP techniques for classification.
 > 📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
 
+---
 
---- 
+### 🌸 Flower Image Classification
+> **Tech Stack:** Python · TensorFlow · Keras · CNN  
+> 🧠 A deep learning image classifier trained to recognize five types of flowers (daisy, dandelion, rose, sunflower, tulip) using Convolutional Neural Networks (CNN).
+> 📈 Trained on a labeled image dataset with image preprocessing, data augmentation, and performance evaluation using accuracy & loss metrics.
+> 🎯 Achieved high validation accuracy and demonstrates robust model generalization.
+> 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
+> <img src="FlowerImageClassification.png" width="100%" />
 
-### 🏪 Website Cafe Sejuk
-> **Tech Stack:** HTML, SCSS, JavaScript  
-> 🛡️ SEJUK’s website is a modern and informative platform that showcases a variety of tea and milk beverages, offering online ordering and business partnership opportunities.  
-> 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
-<img src="Sejuk.png" width="100%" />
+---
 
+### 💬 Comparison of Weather Prediction Model Performance: Random Forest, Support Vector Regression, and XGBoost
+> **Tech Stack:** Python, XGBoost, Random Forest, Support Vector Regressor  
+> 📊 This project aims to evaluate and compare the performance of three machine learning models—Random Forest, Support Vector Regression, and XGBoost—in predicting weather conditions based on historical data.
+> 📁 [Repo](https://github.com/zamysyah/WeatherPrediction)
+<img src="WeatherPrediction.png" alt="WeatrherPrediction" width="100%" />
+
+---
+
+### 💬 Sentiment Analysis
+> **Tech Stack:** Python, Logistic Regression, LSTM  
+> 📊 Comparative analysis using traditional ML and Deep Learning
+> 📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)
+> <img src="Review.png" alt="M2M Website" width="100%" />
+
+---
+
+### 🩺 Health Dataset Processing & Classification
+> **Tech Stack:** Python, Pandas, Sklearn  
+> 🧹 From messy datasets to clean, accurate predictions
+> optimalisasi model KNN, Naive Bayes, Support Vector Machine, Random Forest, Logistic Regression, Desicion Tree
+> 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zamysyah&theme=vision-friendly-dark&hide_border=false" height="150"/>
-</p>  
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=zamysyah&theme=vision-friendly-dark&hide_border=false" height="150"/>
 </p>
