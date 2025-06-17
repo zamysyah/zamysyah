@@ -53,103 +53,98 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 
 ---
 
-### 🌐 Website Projects
+## 🌐 Website Projects
 
 ---
 
 ### 🛒 M2M Sticker Store (ReactJS Static Website)
-> **Tech Stack:** ReactJS  
-> ⚡ Static website for an online sticker shop  
+**Tech Stack:** ReactJS  
+⚡ Static website for an online sticker shop  
+🎥 [Demo Video](https://drive.google.com/file/d/1wabzUrPz44Z8RMCCSG_FGjg5u8s-BuhT/view?usp=drive_link)  
 <img src="m2mWebsite.png" alt="M2M Website" width="100%" />
-🎥 **Demo Video**:  
-▶️ [Watch on Google Drive](https://drive.google.com/file/d/1wabzUrPz44Z8RMCCSG_FGjg5u8s-BuhT/view?usp=drive_link)
 
 ---
 
 ### 🏪 Website Cafe Sejuk
-> **Tech Stack:** HTML, SCSS, JavaScript  
-> 🛡️ SEJUK’s website is a modern and informative platform that showcases a variety of tea and milk beverages, offering online ordering and business partnership opportunities.  
-> 📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)
+**Tech Stack:** HTML, SCSS, JavaScript  
+☕ A modern web for SEJUK café, promoting tea and milk drinks with online order features.  
+📁 [Repo](https://github.com/zamysyah/WebsiteCafeSejuk)  
 <img src="Sejuk.png" width="100%" />
 
 ---
 
 ### 🛍️ Django Ecommerce
-> **Tech Stack:** Django, JavaScript  
-> 🛒 Full-featured e-commerce backend platform
-> 📁 [Repo](https://github.com/zamysyah/DjangoEcommerce)
+**Tech Stack:** Django, JavaScript  
+🛒 Full-featured e-commerce backend platform  
+📁 [Repo](https://github.com/zamysyah/DjangoEcommerce)
 
 ---
 
 ### 💼 Financial App with Laravel
-> **Tech Stack:** Laravel, PHP, CSS  
-> 💸 Financial tracking and invoice recording system
-> 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
-> <img src="Laravel.png" width="100%" />
+**Tech Stack:** Laravel, PHP, CSS  
+💸 Financial tracking and invoice management system  
+📁 [Repo](https://github.com/zamysyah/ProjectLaravel)  
+<img src="Laravel.png" width="100%" />
 
 ---
 
-### 🏬 Warehouse Using Vue.JS
-> **Tech Stack:** Flask, Vue.js, JWT  
-> 🛡️ Secure login & product management  
-> 📁 [Repo](https://github.com/zamysyah/horus-login)
+### 🏬 Warehouse Management App (Vue.js + Flask)
+**Tech Stack:** Flask, Vue.js, JWT  
+🧾 CRUD app with secure login and product management  
+📁 [Repo](https://github.com/zamysyah/horus-login)  
 <img src="SimpleCrudWarehouse.png" width="100%" />
 
+---
+
+## 📊 Data Science & Machine Learning Projects
 
 ---
 
-### 📊 Data Science & Machine Learning Projects
+### 💬 Comparison of Weather Prediction Models
+**Tech Stack:** Python, XGBoost, Random Forest, SVR  
+📊 Compare model performance for weather prediction  
+📁 [Repo](https://github.com/zamysyah/WeatherPrediction)  
+<img src="WeatherPrediction.png" width="100%" />
 
 ---
-
-### 🤖 Chatbot (AI + Streamlit)
-> **Tech Stack:** Python, Streamlit, Ngrok
-> 💬 A lightweight smart assistant built using rule-based logic and conversational memory.
-> 📁 [Repo](https://github.com/zamysyah/melby-chatbot)
-<img src="Chatbot.png" alt="Chatbot" width="100%" />
-
----
-
-### 📰 Fake News Detection App
-> **Tech Stack:** Python, Streamlit, Ngrok
-> 🔍 A real-time fake news detection tool powered by machine learning.
-> 📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
-
----
-
-### 🌸 Flower Image Classification
-> **Tech Stack:** Python · TensorFlow · Keras · CNN
-> 🧠 A deep learning image classifier trained to recognize five types of flowers (daisy, dandelion, rose, sunflower, tulip) using Convolutional Neural Networks (CNN).
-> 📈 Trained on a labeled image dataset with image preprocessing, data augmentation, and performance evaluation using accuracy & loss metrics.
-> 🎯 Achieved high validation accuracy and demonstrates robust model generalization.
-📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
-<img src="FlowerImageClassification.png" width="100%" />
-
----
-
-### 💬 Comparison of Weather Prediction Model Performance: Random Forest, Support Vector Regression, and XGBoost
-> **Tech Stack:** Python, XGBoost, Random Forest, Support Vector Regressor  
-> 📊 This project aims to evaluate and compare the performance of three machine learning models—Random Forest, Support Vector Regression, and XGBoost—in predicting weather conditions based on historical data.
-> 📁 [Repo](https://github.com/zamysyah/WeatherPrediction)
-<img src="WeatherPrediction.png" alt="WeatrherPrediction" width="100%" />
 
 ---
 
 ### 💬 Sentiment Analysis
-> **Tech Stack:** Python, Logistic Regression, LSTM  
-> 📊 Comparative analysis using traditional ML and Deep Learning
-> 📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)
-<img src="Review.png" alt="M2M Website" width="100%" />
+**Tech Stack:** Python, Logistic Regression, LSTM  
+🧠 Comparative study between ML & DL approaches  
+📁 [Repo](https://github.com/zamysyah/AnalisisSentiment)  
+<img src="Review.png" width="100%" />
 
 ---
 
-### 🩺 Health Dataset Processing & Classification
-> **Tech Stack:** Python, Pandas, Sklearn  
-> 🧹 From messy datasets to clean, accurate predictions
-> optimalisasi model KNN, Naive Bayes, Support Vector Machine, Random Forest, Logistic Regression, Desicion Tree
-> 📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
+### 🩺 Health Dataset Classification
+**Tech Stack:** Python, Pandas, Sklearn  
+🧹 Preprocessing and modeling with KNN, Naive Bayes, SVM, RF, LR, Decision Tree  
+📁 [Repo](https://github.com/zamysyah/ProjectDataScience)
 
 ---
+
+### 🤖 Chatbot with Streamlit
+**Tech Stack:** Python, Streamlit, Ngrok  
+💬 Interactive rule-based chatbot with memory  
+📁 [Repo](https://github.com/zamysyah/melby-chatbot)  
+<img src="Chatbot.png" width="100%" />
+
+---
+
+### 📰 Fake News Detection App
+**Tech Stack:** Python, Streamlit, Ngrok  
+🔍 Real-time fake news classification using NLP  
+📁 [Repo](https://github.com/zamysyah/FakeNewsDetector)
+
+---
+
+### 🌸 Flower Image Classification
+**Tech Stack:** TensorFlow, Keras, CNN  
+🧠 CNN-based model to classify 5 flower types  
+📁 [Repo](https://github.com/zamysyah/ProjectLaravel)  
+<img src="FlowerImageClassification.png" width="100%" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
