@@ -120,10 +120,10 @@ Currently sharpening skills in **React**, and **Python**, collaborating on open-
 ---
 
 ### 🌸 Flower Image Classification
-> **Tech Stack:** Python · TensorFlow · Keras · CNN  
--🧠 A deep learning image classifier trained to recognize five types of flowers (daisy, dandelion, rose, sunflower, tulip) using Convolutional Neural Networks (CNN).
--📈 Trained on a labeled image dataset with image preprocessing, data augmentation, and performance evaluation using accuracy & loss metrics.
--🎯 Achieved high validation accuracy and demonstrates robust model generalization.
+> **Tech Stack:** Python · TensorFlow · Keras · CNN
+> 🧠 A deep learning image classifier trained to recognize five types of flowers (daisy, dandelion, rose, sunflower, tulip) using Convolutional Neural Networks (CNN).
+> 📈 Trained on a labeled image dataset with image preprocessing, data augmentation, and performance evaluation using accuracy & loss metrics.
+> 🎯 Achieved high validation accuracy and demonstrates robust model generalization.
 📁 [Repo](https://github.com/zamysyah/ProjectLaravel)
 > <img src="FlowerImageClassification.png" width="100%" />
 
